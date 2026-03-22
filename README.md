@@ -1,5 +1,5 @@
 # 💫 About Me:
-I am Om Prakash Choudhary A Frontend Developer<br>Programming language :  JavaScript(Advance) C , C++ , Java ,python(Basic to intermediate)<br>Framework : React.js ,Vue.js<br>UI/UX : UI Designer (Figma)  <br>Web Design : HTML , CSS JavaScript , Tailwind CSS , SASS<br>Logic building in DSA & system design
+I am Om Prakash Choudhary A Frontend Developer<br>Programming language :  JavaScript(Advance) C , C++ , Java,python(Basic to intermediate)<br>Framework : React.js ,Vue.js<br>UI/UX : UI Designer (Figma)  <br>Web Design : HTML , CSS JavaScript , Tailwind CSS , SASS<br>Logic building in DSA & system design
 
 
 ## 🌐 Socials:
